@@ -5,7 +5,9 @@ This Site is about the incredible life that **Cats** lives everyday and loves.
 
 Cats are *amazing*.I have Owned some great species
 
-Here are some of the ones ive enjoyed as pets,
+Here are some of the ones Ive enjoyed as pets,
+
+[alt text](catareme.jpg)
 
 Tabby cats
 
