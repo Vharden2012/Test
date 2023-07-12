@@ -3,9 +3,9 @@
 
 This Site is about the incredible life that**Cats** lives everydayand loves.
 
--Cats is *amazing*.I have Owned some great species
+Cats are *amazing*.I have Owned some great species
 
----Here are some of the ones ive enjoyed as pets,
+Here are some of the ones ive enjoyed as pets,
 
 Tabby cats
 
@@ -16,5 +16,5 @@ Maine Coom
 
 Below is a website so that you can adopt stray cats
 
-[Www.Facebook.com]
+[Www.Facebook.com/cats]
 
