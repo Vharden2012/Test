@@ -3,7 +3,7 @@
 
 This Site is about the incredible life that **Vivian** lives everyday and loves.
 
-My life is *amazing*.I have made some great connections since ive been born
+My life is *amazing*.I have made ___some great connections since ive been born
 
 Im from Atlanta,Georgia
 
