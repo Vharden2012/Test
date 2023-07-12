@@ -1,5 +1,6 @@
 
-## Vivian incorporation ##
+### The Incorporation of Vivian Harden ###
+
 This Site is about the incredible life that **Vivian** lives everyday and loves.
 
 My life is *amazing*.I have made some great connections today
