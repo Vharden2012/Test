@@ -1,7 +1,7 @@
 
 ### The Incorporation of Vivian Harden ###
 
-This Site is about the incredible life that**Cats** lives everydayand loves.
+This Site is about the incredible life that **Cats** lives everyday and loves.
 
 Cats are *amazing*.I have Owned some great species
 
@@ -17,4 +17,7 @@ Maine Coom
 Below is a website so that you can adopt stray cats
 
 [Www.Facebook.com/cats]
+
+![Alt text](/posts/path/to/img.jpg "Optional title")
+
 
