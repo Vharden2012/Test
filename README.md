@@ -7,7 +7,7 @@ Reading is  *amazing*.
 
 Here are some of reasons I enjoy reading.
 
-Reading bring me a great deal of comforts.
+Reading bring me a great deal of comforts.The reasons are listed below
 
 1.I can escape from my real life troubles.
 
@@ -15,7 +15,7 @@ Reading bring me a great deal of comforts.
 
 3.Here is a picture of my Favorite book
 
-![Family By J. Califronia Cooper](Family.jpg)
+![Family By J. Califronia Cooper](https://github.com/Vharden2012/Test/blob/main/Family.jpg)
 
 "Below is a website so that you can orderbooks."
 
