@@ -1,13 +1,16 @@
 
-### The Incorporation of Vivian Harden ###
+###  Vivian Harden Favorite Activities ###
 
-This Site is about the incredible life that **Cats** lives everyday and loves.
+My favorite activity is studying felines. my liofe revovles around the incredible life that **Cats** lives.
 
 Cats are *amazing*.I have Owned some great species
 
-Here are some of the ones Ive enjoyed as pets,
+Here are some of the ones Ive enjoyed as pets.
 
-[alt text](catareme.jpg)
+Cats bring me a great deal of comforts.
+
+
+(catareme.jpg)
 
 Tabby cats
 
